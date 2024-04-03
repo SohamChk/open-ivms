@@ -13,14 +13,8 @@ Open-iVMS is an open-source In-Vehicle Monitoring System designed to enhance fle
 
 ## Getting Started
 
-To get started with Open-iVMS, follow these steps:
+Refer to the documentation in [documentation](docs/). for comprehensive guidance on installation, configuration using YAML files, and optimization. Explore the source code, contribute to the project, or share your experiences with the community.
 
-1. Clone the repository: `git clone https://github.com/yourusername/open-ivms.git`
-2. Install dependencies: `npm install` (for frontend) and `pip install -r requirements.txt` (for backend)
-3. Set up database: `python manage.py migrate`
-4. Run the development server: `python manage.py runserver`
-
-For detailed installation and usage instructions, refer to the [documentation](docs/).
 
 ## Contributing
 
